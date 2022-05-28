@@ -1,0 +1,30 @@
+.container{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header{
+    background: red;
+}
+
+header nav{
+    width: 50px;
+    height: 50px;
+    background:#000;
+    margin-bottom: 10px;
+}
+
+header nav.hamburguer{
+    background: green;
+}
+
+main{
+    background: #000;
+    height: 100px;
+}
+
+footer{
+    background: blue;
+    height: 100px;
+} 
